@@ -1,0 +1,11 @@
+D:\vs2022\project\Bill\Bill\bin\Debug\Bill.exe.config
+D:\vs2022\project\Bill\Bill\bin\Debug\Bill.exe
+D:\vs2022\project\Bill\Bill\bin\Debug\Bill.pdb
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.csproj.AssemblyReference.cache
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.csproj.SuggestedBindingRedirects.cache
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.Form1.resources
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.Properties.Resources.resources
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.csproj.GenerateResource.cache
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.csproj.CoreCompileInputs.cache
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.exe
+D:\vs2022\project\Bill\Bill\obj\Debug\Bill.pdb
